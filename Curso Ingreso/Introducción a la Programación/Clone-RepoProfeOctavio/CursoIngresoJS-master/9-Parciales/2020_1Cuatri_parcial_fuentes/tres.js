@@ -1,4 +1,0 @@
-function mostrar()
-{
-	alert("tres");
-}
